@@ -5,7 +5,7 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/logotrans.png"
+  logo: "/images/newlogotrans.png"
   # author will appear under the avatar (optional)
   author: "WMMcorp"
   # tagline will appear under the title (optional)
